@@ -1,0 +1,1 @@
+This is my imaginary grocery store built using DJANGO framework and python scripts.
